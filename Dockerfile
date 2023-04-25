@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD . /var/www/html
+ADD Word-game /var/www/html
